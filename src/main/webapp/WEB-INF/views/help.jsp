@@ -55,7 +55,7 @@ text-decoration: none;
 <dt>1. Looking for a Job ?</dt>
 <dd><a href="mailto:ravipayal@gmail.com" aria-disabled="true">contact&nbsp;</a>to ${name}</dd>
 </dl>
-</section>gmail
+</section>
 
 </body>
 </html>
