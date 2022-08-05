@@ -27,7 +27,7 @@ font-size: 1em;
 <div class="container p-5 my-5 border">
 <h1>SPRING MVC CRUD</h1>
 <p>Using JSP,Bootstrap,MySQL,Simple database integration using XML</p>
-<p class="text-primary">Devloped by Akshay Satpute</p>
+<p class="text-primary">Developed by Akshay Satpute</p>
 <button type="button" onclick=" location.href='./home' " class="btn btn-outline-primary">Continue</button>
 </body>
 </div>
