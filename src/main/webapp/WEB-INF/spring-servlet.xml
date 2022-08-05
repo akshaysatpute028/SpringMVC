@@ -21,7 +21,7 @@ xsi:schemaLocation="http://www.springframework.org/schema/beans
     <bean class="com.cdac.db.DBConnect" id="dbconnect">
         <property name="drivername" value="com.mysql.cj.jdbc.Driver"/>
         <property name="username" value="root"></property>
-        <property name="password" value="akshay"></property>
+        <property name="password" value="root"></property>
         <property name="url" value="jdbc:mysql://localhost:3306/advjava"></property>
     </bean>
    
