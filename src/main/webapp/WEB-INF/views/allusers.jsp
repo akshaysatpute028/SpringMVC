@@ -49,7 +49,7 @@ font-size: xx-large
 
 <section class="container mt-3">
 ${status}
-<h1>All Users</h1>
+<h1>All Users <button type="button" onclick=" location.href='./reg' " class="btn btn-outline-success">Add User +</button></h1>
 <table class="table table-striped table-bordered table-sm table-hover">
 <thead class="table-info">
 <tr>
